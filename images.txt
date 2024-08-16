@@ -2,3 +2,4 @@ nginx
 postgres:16.4
 kong:3.7
 consul:1.15.4
+pantsel/konga:latest
