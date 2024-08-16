@@ -1,4 +1,4 @@
 nginx
 postgres:9.5
-kong:1.5
+kong:3.7
 consul:1.15.4
